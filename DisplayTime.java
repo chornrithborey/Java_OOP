@@ -12,8 +12,5 @@ public class DisplayTime {
     int remainSecond = second % 60;
 
     System.out.println("Minute : "+ mn + " & " + remainSecond + " seconds ");
-
-    // obtain the total 
-
   }
 }
