@@ -13,6 +13,7 @@ public class DisplayTime {
 
     System.out.println("Minute : "+ mn + " & " + remainSecond + " seconds ");
 
+    // obtain the total 
 
   }
 }
