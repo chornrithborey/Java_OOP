@@ -39,6 +39,7 @@ public class CambodiaZodiac {
 		   break;
 		   case 11: System.out.println("Goat");
 		   break;
+		   default:
 
 		 
 	   }
